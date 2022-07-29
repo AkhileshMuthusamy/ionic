@@ -8,5 +8,5 @@ ionic start
 ## Run the development server
 
 ```
-ionic start
+ionic serve
 ```
