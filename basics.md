@@ -10,3 +10,11 @@ ionic start
 ```
 ionic serve
 ```
+
+## Platform
+
+Add android platform
+
+```
+ionic cordova platform add android
+```
